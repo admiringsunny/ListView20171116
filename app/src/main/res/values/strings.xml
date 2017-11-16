@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListView20171116</string>
+    <string-array name="days">
+        <item>Sunday</item>
+        <item></item>
+        <item>Sunday</item>
+        <item>Sunday</item>
+        <item>Sunday</item>
+        <item>Sunday</item>
+        <item>Sunday</item>
+
+    </string-array>
+</resources>
